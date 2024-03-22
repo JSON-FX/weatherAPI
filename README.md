@@ -14,7 +14,7 @@ Install Dependencies
   composer install
 ```
 
-Create a new .env and simply copy .env.example's content.
+## Create a new .env and simply copy .env.example's content.
 
 Generate a key
 
@@ -39,6 +39,9 @@ Finally run
 
 ```bash
   npm run dev
+```
+
+```bash
   php artisan serve
 ```
 
