@@ -14,6 +14,21 @@ Install Dependencies
   composer install
 ```
 
+Create a new .env and simply copy .env.example's content.
+
+Generate a key
+
+```bash
+  php artisan key:generate
+```
+
+database migration
+
+```bash
+  php artisan migrate
+```
+SQLite Database will create database/database.sqlite for the first time. Just select 'YES'
+
 Install Node Packages
 
 ```bash
