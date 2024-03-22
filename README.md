@@ -27,7 +27,7 @@ database migration
 ```bash
   php artisan migrate
 ```
-SQLite Database will create database/database.sqlite for the first time. Just select 'YES'
+## SQLite Database will create database/database.sqlite for the first time. Just select 'YES'
 
 Install Node Packages
 
